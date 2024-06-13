@@ -21,5 +21,10 @@ namespace collab
         {
 
         }
+
+        private void btnAddTask_Click(object sender, EventArgs e)
+        {
+            // A button to add new task
+        }
     }
 }
